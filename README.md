@@ -6,7 +6,6 @@
 🎓 **B.Tech in Computational and Mathematics Engineering, Mahindra University**  
 📍 **Baltimore, MD**  
 📧 [kzaveri1@jh.edu](mailto:kzaveri1@jh.edu)  
-📱 +1 (443) 563-4154
 
 ---
 
