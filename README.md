@@ -54,7 +54,7 @@ I am a data science enthusiast with a strong Machine Learning and Deep Learning 
 - **Data Visualization**: Matplotlib, Seaborn
   
 ### Competencies
-- Machine Learning, Generative AI, Feature Engineering, Deep Learning, Computer Vision, NLP
+- Machine Learning, Generative AI, Feature Engineering, Deep Learning, Computer Vision, NLP, Data Mining
 
 ### 📜 Certifications
 - **Deep Neural Network with PyTorch** | IBM, Coursera (March 2024)
