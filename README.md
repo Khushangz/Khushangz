@@ -11,7 +11,7 @@
 
 ## 🔍 About Me
 
-I am a data science enthusiast with a strong Machine Learning and Deep Learning foundation. My experience spans across various data scinece projects. I thrive on developing innovative solutions using advanced algorithms and models to solve real-world problems. My academic journey and industry internships have equipped me with the skills and expertise to excel in AI, machine learning, and data-driven solutions.
+I am a data science enthusiast with a strong Machine Learning and Deep Learning foundation. My experience spans across various data scinece projects. I thrive on developing innovative solutions using advanced algorithms and models to solve real-world problems. My academic journey and industry internships have equipped me with the skills and expertise to excel in AI, machine learning, and data-driven solution.
 
 ## 🚀 Key Projects
 
