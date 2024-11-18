@@ -40,7 +40,7 @@ I am a data science enthusiast with a strong Machine Learning and Deep Learning 
     
 - **Research Assistant** | University of Pennsylvania  (Jan 2023 - Jan 2024)
   - Created Largest and first dataset on social norms that helped uncover over 10K harmful social norms across different cultures
-  - Presented abstract of research paper in field of NLP at IC2S2, archived in ACL 
+  - Presented abstract of research paper in field of NLP at IC2S2, archived in **ACL** 
 
 ## 🛠 Skills
 
