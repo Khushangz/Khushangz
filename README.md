@@ -45,7 +45,7 @@ I am a data science enthusiast with a strong Machine Learning and Deep Learning 
 ## 🛠 Skills
 
 ### Programming Languages
-- **Python**, **SQL**, **R**, **C**
+- **Python**, **SQL**, **R**, **C**, **Matlab**, **HTML**
 
 ### Technical Skills
 - **Data Filtration**: NumPy, Pandas, OS, Scikit-learn, SciPy, Datasets, LIWC, NLTK
