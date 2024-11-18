@@ -36,7 +36,7 @@ I am a data science enthusiast with a strong Machine Learning and Deep Learning 
   
 - **AI Intern** | KPMG (Jun 2023 - Aug 2023)
   - Developed applications using **Language Models** such as **Flan-T5** and **GEC-T5_small**.
-  - **Researched and evaluated the impact of BASEL IV normms ** on Indian banks.
+  - **Researched and evaluated the impact of BASEL IV norms** on Indian banks.
     
 - **Research Assistant** | University of Pennsylvania  (Jan 2023 - Jan 2024)
   - Created Largest and first dataset on social norms that helped uncover over 10K harmful social norms across different cultures
