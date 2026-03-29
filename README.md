@@ -131,10 +131,7 @@ WavLM, ASR, VAD, Speech Processing, Librosa
 ### ⚙️ MLOps & Infrastructure  
 FastAPI, Docker, AWS, Airflow, PostgreSQL, CI/CD  
 
-
 ---
-
-⭐️ Feel free to explore my repositories and reach out for collaborations!
 
 ### 📜 Certifications
 - **Deep Neural Network with PyTorch** | IBM, Coursera (March 2024)
