@@ -74,6 +74,19 @@ I’m particularly interested in **taking ML systems from research to production
 
 ---
 
+## 📄 Publications
+
+- 🏆 **NAACL Main Conference (Top NLP Venue)**  
+  *Social Norms in Cinema: A Cross-Cultural Analysis of Shame and Pride*  
+
+- 📚 **COLM 2025 (MELT Workshop)**  
+  Paper on social norms in cinema  
+
+- 🏥 **SIIM Conference (Abstract)**  
+  *Privacy Preservation in Publicly Available Medical Imaging Datasets*  
+
+---
+
 ## 🚀 Key Projects
 
 ### 🔍 Agentic Semantic Code Search Engine  
