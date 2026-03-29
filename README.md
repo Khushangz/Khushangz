@@ -9,46 +9,107 @@
 
 ---
 
-## 🔍 About Me
+🔍 About Me
 
-I am a data science enthusiast with a strong Machine Learning and Deep Learning foundation. My experience spans across various data scinece projects. I thrive on developing innovative solutions using advanced algorithms and models to solve real-world problems. My academic journey and industry internships have equipped me with the skills and expertise to excel in AI, machine learning, and data-driven solutions.
+I build scalable AI systems at the intersection of machine learning, multimodal intelligence, and real-world deployment.
 
-## 🚀 Key Projects
-  
-### 📊 Finding Social Norms (Research Assistant, University of Pennsylvania, Jan 2023 - Jan 2024)
-- Pioneered a dataset that uncovered harmful social norms across different cultures.
-- Applied web scraping techniques and cleaned large datasets using **BeautifulSoup** and **Python**.
-- Utilized **LDA** and **LIWC** for data analysis and presented the abstract of a research paper at IC2S2.
+My work spans:
 
-### 🤖 Biomedical Named Entity Recognition (AI Intern, Veltris, Jan 2024 - Jul 2024)
-- Fine-tuned **BERT** and **RoBERTa** models to enhance NER performance in biomedical contexts.
-- Achieved high accuracy in classifying images into streets, forests, and mountains with a custom **CNN** model.
+Large-scale retrieval systems (600K+ image pipelines with FAISS)
+Generative AI & diffusion models (privacy, inversion, membership inference)
+Multimodal AI (text, image, and audio)
+Agentic workflows & RAG pipelines
 
-## 💼 Experience
+Currently:
 
-- **AI Intern** | Veltris (Jan 2024 - Jul 2024)
-  - Developed and fine-tuned advanced AI models for biomedical applications.
-  - Built custom CNN models for image classification with 99% accuracy.
-  
-- **AI Intern** | KPMG (Jun 2023 - Aug 2023)
-  - Developed applications using **Language Models** such as **Flan-T5** and **GEC-T5_small**.
-  - **Researched and evaluated the impact of BASEL IV norms** on Indian banks.
-    
-- **Research Assistant** | University of Pennsylvania  (Jan 2023 - Jan 2024)
-  - Created Largest and first dataset on social norms that helped uncover over 10K harmful social norms across different cultures
-  - Presented abstract of research paper in field of NLP at **IC2S2**, archived in **ACL** 
+🏥 Developing privacy-aware AI systems at St. Jude Children's Research Hospital
+🧠 Building real-time vocal tic detection systems at Johns Hopkins University
 
-## 🛠 Skills
+I focus on taking ML from research to production-scale systems with measurable impact.
 
-### Programming Languages
-- **Python**, **SQL**, **R**, **C**, **Matlab**, **HTML**, **Linux**
+💼 Experience
+🏥 Software Engineer Intern
 
-### Technical Skills
-- **Data Filtration**: NumPy, Pandas, OS, Scikit-learn, SciPy, Datasets, LIWC, NLTK
-- **Web Scraping**: BeautifulSoup, Requests
-- **Model Building and Training**: PyTorch, Transformer, Wandb, SageMaker, SpaCy, Flair, TensorFlow, OpenCV
-- **Data Visualization**: Matplotlib, Seaborn
-  
+St. Jude Children's Research Hospital | May 2025 – Present
+
+Built contrastive learning pipelines for medical image privacy detection
+Scaled FAISS-based retrieval to 600K+ images with optimized similarity search
+Developed patient verification system using Siamese networks + hard negative mining
+Designed diffusion inversion pipelines (DDIM + U-Net + VAE) to study identity leakage
+Engineered production-grade ML pipelines (Hydra, dataloaders, evaluation systems)
+🧠 Graduate Research Assistant
+
+Johns Hopkins University | Aug 2025 – Present
+
+Built first end-to-end vocal tic detection system for real-time inference
+Designed experiments across SVM, VAD, MMD, LDA for signal analysis
+Improved AUROC by 40% using custom sampling and temporal modeling
+🤖 AI Intern
+
+Veltris | Jan 2024 – Jul 2024
+
+Built biomedical NER pipelines using BERT and RoBERTa
+Achieved 0.8 Macro F1 on domain-specific datasets
+Solved class imbalance using data augmentation and sampling
+📊 AI Intern
+
+KPMG | Jun 2023 – Aug 2023
+
+Fine-tuned Flan-T5 and Falcon-7B using PEFT for enterprise NLP tasks
+Built LLM workflows for audit assistance and query generation
+Applied Monte Carlo simulations for financial risk modeling
+🔬 Research Intern
+
+University of Pennsylvania | Jan 2023 – Jan 2024
+
+Built dataset from 5,435 movie transcripts across cultures
+Developed ETL pipeline using web scraping + NLP
+Identified 10,000+ harmful social norms using clustering and analysis
+🚀 Key Projects
+🔍 Agentic Semantic Code Search Engine
+Built end-to-end RAG system using FastAPI, LangGraph, PostgreSQL, Qdrant
+Implemented AST-based code understanding (Tree-sitter)
+Enabled intent-aware code search with LLM explanations
+📚 Multimodal Research Paper Retrieval
+Designed multimodal retrieval system using FAISS + LLaVA
+Integrated LLM reasoning over text and images
+Improved retrieval performance by 30%
+🏥 Medical Image Privacy & Retrieval
+Built contrastive retrieval pipelines across 600K+ images
+Achieved 0.89 mAP@R and 0.90 Precision@1
+Developed diffusion inversion pipeline for identity leakage detection
+🎙️ Real-Time Vocal Tic Detection
+Built end-to-end pipeline using WavLM + CNN-BiLSTM
+Tackled 98:2 imbalance using custom sampling
+Optimized temporal modeling for improved performance
+🌍 Social Norms Dataset
+Built dataset from 5,000+ movie transcripts
+Extracted 10,000+ harmful social norms
+Presented at IC2S2, archived in ACL
+🛠 Skills
+Programming
+
+Python, SQL, R, C++, Java, Bash
+
+Machine Learning & AI
+
+PyTorch, TensorFlow, Transformers, Diffusion Models, RLHF, PEFT
+
+Retrieval & Agentic Systems
+
+FAISS, Qdrant, RAG, LangChain, LangGraph, Vector DBs
+
+Computer Vision
+
+OpenCV, Torchvision, PIL, Albumentations, Stable Diffusion
+
+Speech & Audio
+
+WavLM, ASR, VAD, Speech Processing, Librosa
+
+MLOps & Infra
+
+FastAPI, Docker, AWS, Airflow, PostgreSQL, CI/CD
 ### Competencies
 - Machine Learning, Generative AI, Feature Engineering, Deep Learning, Computer Vision, NLP, Data Mining
 
